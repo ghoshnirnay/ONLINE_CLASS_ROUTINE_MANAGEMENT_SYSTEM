@@ -1,6 +1,6 @@
 # classsync_offline2
 Software_engineering_project
-####################################
+
 
 # ClassSync — Offline (SQLite + Flask)
 
