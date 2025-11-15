@@ -1,0 +1,107 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_06d9f42e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_71ee7ebe"
+  },
+  {
+    "name": "manage",
+    "path": "/manage",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\index.vue",
+    "chunkName": "pages/manage/index",
+    "_name": "_3618b4a2"
+  },
+  {
+    "name": "notifications",
+    "path": "/notifications",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications",
+    "_name": "_89708086"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_1740395e"
+  },
+  {
+    "name": "routines",
+    "path": "/routines",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\routines.vue",
+    "chunkName": "pages/routines",
+    "_name": "_57011cea"
+  },
+  {
+    "name": "swap-request",
+    "path": "/swap-request",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\swap-request.vue",
+    "chunkName": "pages/swap-request",
+    "_name": "_7e12fc90"
+  },
+  {
+    "name": "admin-swap-requests",
+    "path": "/admin/swap-requests",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\admin\\\\swap-requests.vue",
+    "chunkName": "pages/admin/swap-requests",
+    "_name": "_5e4eb84a"
+  },
+  {
+    "name": "manage-faculty-subjects",
+    "path": "/manage/faculty-subjects",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\faculty-subjects.vue",
+    "chunkName": "pages/manage/faculty-subjects",
+    "_name": "_c623a120"
+  },
+  {
+    "name": "manage-rooms",
+    "path": "/manage/rooms",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\rooms.vue",
+    "chunkName": "pages/manage/rooms",
+    "_name": "_27a6a3c8"
+  },
+  {
+    "name": "manage-subjects",
+    "path": "/manage/subjects",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\subjects.vue",
+    "chunkName": "pages/manage/subjects",
+    "_name": "_49602ab2"
+  },
+  {
+    "name": "manage-swap-requests",
+    "path": "/manage/swap-requests",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\swap-requests.vue",
+    "chunkName": "pages/manage/swap-requests",
+    "_name": "_dcea36e4"
+  },
+  {
+    "name": "manage-time-slots",
+    "path": "/manage/time-slots",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\time-slots.vue",
+    "chunkName": "pages/manage/time-slots",
+    "_name": "_c0be5fd6"
+  },
+  {
+    "name": "manage-routines-create",
+    "path": "/manage/routines/create",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\manage\\\\routines\\\\create.vue",
+    "chunkName": "pages/manage/routines/create",
+    "_name": "_06b934ea"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\project_files\\\\classsync_offline2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_af7248b2"
+  }
+]

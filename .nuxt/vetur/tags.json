@@ -1,0 +1,23 @@
+{
+  "AdminDashboard": {
+    "description": "Auto imported from components/AdminDashboard.vue"
+  },
+  "FacultyDashboard": {
+    "description": "Auto imported from components/FacultyDashboard.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "StudentDashboard": {
+    "description": "Auto imported from components/StudentDashboard.vue"
+  },
+  "WeeklyGrid": {
+    "description": "Auto imported from components/WeeklyGrid.vue"
+  },
+  "WeeklySchedule": {
+    "description": "Auto imported from components/WeeklySchedule.vue"
+  }
+}
